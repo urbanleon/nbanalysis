@@ -15,8 +15,9 @@ To run this project, you'll need to have Python installed on your system. Additi
 
 ## Data Sources
 
-Play-by-Play Data: /data/pbp.csv
-Player Information: /data/players.csv
-Player Images: Stored in /images/
+- Play-by-Play Data: /data/pbp.csv
+- Player Information: /data/players.csv
+- Player Images: Stored in /images/
+  
 Ensure that the play-by-play data and player information CSV files are formatted correctly and contain the necessary columns for the script to process them.
 
